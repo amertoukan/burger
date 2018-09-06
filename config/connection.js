@@ -1,3 +1,4 @@
+require ('dotenv').config();
 
 var mysql = require('mysql');
 var connection = mysql.createConnection({
@@ -12,7 +13,8 @@ connection.connect (function(err){
     if (err){
         console.log('Error mySQL\n\n'+err);
     } else {
-        console.log('Database is ready, feed it');
+        //console.log('DB working');
+        return;
     }
 });
 
