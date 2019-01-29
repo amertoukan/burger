@@ -24,7 +24,7 @@ This app has 2 lists -- one which shows burgers to devour while the other shows 
 
 <strong>Screenshots: </strong>
 
-![screenshot-1]('./images/screenshot-1.png')
+![screenshot-1](images/screenshot-1.png)
 <br/>
-![screenshot-2]('./images/screenshot-2.png')
+![screenshot-2](/images/screenshot-2.png)
 
